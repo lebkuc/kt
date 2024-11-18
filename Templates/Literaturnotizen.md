@@ -1,8 +1,8 @@
 ---
 tags: 
-date: 2024-11-18
+date: <% tp.date.now() %>
 ---
-null
+
 
 
 

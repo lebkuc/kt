@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "My First Note"
             }
+          },
+          {
+            "id": "bed3ad9dd7377d85",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (data.json)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "My First Note.md",
+            "file": "Templates/Literaturnotizen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "My First Note.md",
+            "file": "Templates/Literaturnotizen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -143,7 +156,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "My First Note.md"
+            "file": "Templates/Literaturnotizen.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -170,13 +183,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8a7c1dacafd4e210",
+  "active": "bed3ad9dd7377d85",
   "lastOpenFiles": [
-    "README.md",
     "My First Note.md",
+    "Templates/Literaturnotizen.md",
+    "README.md",
     "Templates"
   ]
 }
